@@ -12,6 +12,7 @@ dependencies:
   - cartopy
   - pyvista-xarray
   - ipywidgets
+  - scikit-learn
   - tqdm
   - pip
   - pip:
